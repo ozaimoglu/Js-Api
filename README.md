@@ -1,2 +1,2 @@
-# Js-Api
-JavaScript get data with XMLHttpRequest
+# API-with-JavaScript
+How to Connect to an API with JavaScript
